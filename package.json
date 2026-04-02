@@ -6,5 +6,8 @@
   },
   "dependencies": {
     "n8n": "latest"
+  },
+  "engines": {
+    "node": ">=22.16"
   }
 }
