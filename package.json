@@ -2,7 +2,7 @@
   "name": "hostinger-n8n",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo \"Nothing to build!\"",
+    "build": "mkdir -p dist && echo \"Nothing to build!\"",
     "start": "n8n"
   },
   "dependencies": {
