@@ -1,13 +1,11 @@
 {
-  "name": "n8n-deploy",
+  "name": "hostinger-n8n",
   "version": "1.0.0",
   "scripts": {
-    "start": "n8n start"
+    "build": "echo \"Nothing to build!\"",
+    "start": "n8n"
   },
   "dependencies": {
     "n8n": "latest"
-  },
-  "engines": {
-    "node": ">=22.16"
   }
 }
